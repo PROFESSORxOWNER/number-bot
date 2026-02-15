@@ -6,7 +6,7 @@ from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 from telegram.request import HTTPXRequest
 
-BOT_TOKEN = os.getenv("8565865745:AAFSq_4C6DSqfyG81A-pFl8Z83mvb1bOlPc")
+BOT_TOKEN = os.getenv("8565865745:AAEKPJuhCyhwRk0AGd9c9yAqqX8l8ibT8zM")
 API = "https://anishexploits.site/anish-exploits/api.php?key=demo-testing&num="
 
 keyboard = ReplyKeyboardMarkup(
